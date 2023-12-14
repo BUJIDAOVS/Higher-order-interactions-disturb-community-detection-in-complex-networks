@@ -29,6 +29,17 @@ This repository contains code and data processing steps used in the study "Highe
 1. `pacs_deal_data.m` - Processes the APS dataset, correlating authors with PACS codes of papers.
 2. `pacs_sim_big_author.m` - Validates the consistency and effectiveness of field identification before and after removing high-order interactions.
 
+## Data Availability
+
+Due to the size limitations of the GitHub repository, the complete dataset could not be uploaded here.
+
+### Original Data
+The APS data are available upon request. Please submit your request to the American Physical Society (APS) at [https://journals.aps.org/datasets](https://journals.aps.org/datasets).
+
+### Processed Data
+For access to the processed data used in this study, please send an email inquiry to 202221250020@mail.bnu.edu.cn.
+
+
 ---
 
 For details on the methods used in these scripts, as well as the analysis of results and conclusions, please refer to the corresponding sections of the research paper.
